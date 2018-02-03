@@ -1,20 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ur16cs064/reshma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
 SAHAYA MARY RESHMA ROY. S
 DWARAKA NAGAR,HOSUR | 9487715372 | reshsp190209@gmail.com
 
@@ -33,6 +16,7 @@ HSC | 2016 | ST.JOSEPH’S. MAT.HR. SEC.SCHOOL
 •	Related coursework: LAB WORKS RELATED TO THE COURSE.
 
 ACADEMIC ACHIEVEMENTS:
+
 1. Cambridge BEC certification( Business english proficiency)- 157/170
 2.Attended a national conference on artificial intelligence to help people ith disabilities.
 3.Attended a workshop on cloud computing ,
@@ -105,23 +89,3 @@ STRENGTHS
 WEAKNESS
 1.I CAN CONCENTRATE ON ONLY ONE WORK AT A TIME
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ur16cs064/reshma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
